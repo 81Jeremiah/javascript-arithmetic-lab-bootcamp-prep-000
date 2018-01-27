@@ -11,8 +11,8 @@ function divide(a,b) {
   return a/b;
 }
 function inc(n){
-  nubmer  n+=
+  number  +=1;
 }
 function dec(n) {
-  return a-=
+  number -=1
 }
